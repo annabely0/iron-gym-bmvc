@@ -7,7 +7,7 @@ O projeto evolui em quatro níveis, cada um em sua própria pasta e com seu pró
 | Nível | Propósito | Pasta | Vídeo | Commit de entrega | Status |
 |:-----:|-----------|:-----:|:-----:|:-----------------:|:------:|
 | 1 | Página estática em template TPL, com CSS e JavaScript ativos (planos e calculadora de IMC) | `nivel1_pagina_estatica` | [Link](https://youtu.be/eddZN9avpQQ) | `6e293b5` | Enviado |
-| 2 | CRUD completo do modelo `Aluno`, com persistência em arquivo JSON | `nivel2_crud` | Em breve | `A definir` | Pendente |
+| 2 | CRUD completo do modelo `Aluno`, com persistência em arquivo JSON | `nivel2_crud` | [Link](https://youtu.be/I9xHZZJS2Rs) | `A definir` | Pendente |
 | 3 | CRUD com login, sessão em cookie assinado e páginas restritas | `nivel3_login` | Em breve | `A definir` | Pendente |
 | 4 | Tudo do nível 3 mais WebSocket: check-in/out e lotação em tempo real | `nivel4_websocket` | Em breve | `A definir` | Pendente |
 ## Padrão MVC (nível 1)
